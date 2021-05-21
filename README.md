@@ -7,3 +7,6 @@ Parts Used:
 - Arduino Nano compatible board
 - 1602 LCD screen module (blue backlight)
 - some breadboards and lots of jumper wires!
+
+Ultrasonic! - Measuring Distance using Ultrasonic Sensor and an Arduino compatible board
+https://youtu.be/_PbtXOwL3UE
